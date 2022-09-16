@@ -1,0 +1,10 @@
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Release\SerialPortCommunication.exe.config
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Release\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Release\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\SerialPortCommunication.csproj.AssemblyReference.cache
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\PCComm.FrmMain.resources
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\PCComm.Properties.Resources.resources
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\SerialPortCommunication.csproj.GenerateResource.cache
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\SerialPortCommunication.csproj.CoreCompileInputs.cache
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Release\SerialPortCommunication.pdb
