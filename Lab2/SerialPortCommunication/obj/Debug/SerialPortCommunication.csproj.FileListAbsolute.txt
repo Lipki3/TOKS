@@ -1,0 +1,29 @@
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\PCComm.FrmMain.resources
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.cache
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.CoreCompileInputs.cache
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C#\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.AssemblyReference.cache
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\PCComm.FrmMain.resources
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.cache
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.CoreCompileInputs.cache
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\C# — копия\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.AssemblyReference.cache
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\PCComm.FrmMain.resources
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.cache
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.CoreCompileInputs.cache
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Users\KaMo.by Admin\Desktop\ТОКС_ЛР2\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
